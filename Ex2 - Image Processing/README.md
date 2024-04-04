@@ -1,4 +1,4 @@
-# Audio Denoising Exercise
+# Audio Denoising
 
 Repository for the Audio Denoising exercise, part of the Image Processing course. This project focuses on the application of Fast Fourier Transform (FFT) and Short-Time Fourier Transform (STFT) methods to remove noise from audio signals.
 
