@@ -2,7 +2,7 @@
 
 Image Processing repository, contains a collection of exercises and projects completed as part of the Image Processing course.
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*ExWYZTbJ7f6p6pvdg8RkWA.png" width="200">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*ExWYZTbJ7f6p6pvdg8RkWA.png" width="500">
 
 ## Overview
 
