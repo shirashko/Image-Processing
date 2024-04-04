@@ -2,8 +2,7 @@
 
 Image Processing repository, contains a collection of exercises and projects completed as part of the Image Processing course.
 
-![Alt text](http://[url-to-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40boelsmaxence%2Fintroduction-to-image-processing-filters-179607f9824a&psig=AOvVaw1Cu8T2ejhwIbe1l6FBNffy&ust=1712327325718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCIl8PiqIUDFQAAAAAdAAAAABAE)
-
+![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*ExWYZTbJ7f6p6pvdg8RkWA.png)
 
 ## Overview
 
