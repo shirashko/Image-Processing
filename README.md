@@ -2,6 +2,9 @@
 
 Image Processing repository, contains a collection of exercises and projects completed as part of the Image Processing course.
 
+![Alt text](http://[url-to-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40boelsmaxence%2Fintroduction-to-image-processing-filters-179607f9824a&psig=AOvVaw1Cu8T2ejhwIbe1l6FBNffy&ust=1712327325718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCIl8PiqIUDFQAAAAAdAAAAABAE)
+
+
 ## Overview
 
 Each directory in this repository corresponds to a specific exercise or project undertaken during the course. These exercises cover a wide range of topics within image processing, including but not limited to sampling, histograms, image enhancement, restoration, convolution, Fourier transforms, image compression, and advanced techniques like image blending and GAN inversions.
